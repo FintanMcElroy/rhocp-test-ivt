@@ -1,0 +1,17 @@
+{
+	"name": "rhocp-test-ivt",
+	"version": "0.0.1",
+	"description": "IVT example for RHOCP",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "^4.17.x",
+		"dotenv": "^8.0.x",
+		"moment": "^2.24.x"
+	},
+	"repository": {},
+	"engines": {
+		"node": "10.16.x"
+	}
+}
