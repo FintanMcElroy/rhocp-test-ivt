@@ -6,7 +6,7 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
-		"express": "^4.17.x",
+		"express": "^4.18.x",
 		"dotenv": "^8.0.x",
 		"moment": "^2.24.x"
 	},
